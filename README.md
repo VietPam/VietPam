@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **community project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/phamquangviet891?tab=repositories](https://github.com/phamquangviet891?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/phamquangviet891?tab=repositories](github.com/phamquangviet891?tab=repositories)
 
-- 💬 Ask me about **ddd**
+- 💬 Ask me about **Web development**
 
-- 📫 How to reach me **https://www.facebook.com/phamquangviet891/**
+- 📫 How to reach me **www.facebook.com/phamquangviet891/**
 
 - ⚡ Fun fact **I can fix the bug, but i dont fit to you**
 
