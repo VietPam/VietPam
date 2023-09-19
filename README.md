@@ -1,7 +1,7 @@
 <a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a>
 <h1 align="center">Hi 👋, I'm QuangViet</h1>
 <h3 align="center">A passionate web developer from VietNam</h3>
-<img align="right" alt="Coding" width="480" src="https://firebasestorage.googleapis.com/v0/b/readme-github-45eae.appspot.com/o/20230919_030544955_iOS.gif?alt=media&token=8de41dd9-6086-4596-bc06-92a92c20aa6e">
+<img align="right" alt="Coding" width="50%" src="https://firebasestorage.googleapis.com/v0/b/readme-github-45eae.appspot.com/o/20230919_030544955_iOS.gif?alt=media&token=8de41dd9-6086-4596-bc06-92a92c20aa6e">
 
 <p align="left"> <img src="https://firebasestorage.googleapis.com/v0/b/readme-github-45eae.appspot.com/o/20230919_030451362_iOS.gif?alt=media&token=7e6bd472-855b-40ce-a6d7-fd3b27fe1bde" alt="phamquangviet891" /> </p>
 
