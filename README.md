@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **www.facebook.com/phamquangviet891/**
 
-- ⚡ Fun fact **I can fix the bug, but i can't fix my broken heart **
+- ⚡ Fun fact **I can fix the bug, but i can't fix my broken heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
