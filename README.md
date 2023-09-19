@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Quang Viet</h1>
 <h3 align="center">A passionate web developer from VietNam</h3>
 <br>
-<img align="right" alt="Coding" width="300" src="https://github.com/phamquangviet891/phamquangviet891/blob/main/right%20gif%20img.gif">
+<img align="right" alt="Coding" width="264" src="https://github.com/phamquangviet891/phamquangviet891/blob/main/right%20gif%20img.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamquangviet891&label=Profile%20views&color=0e75b6&style=flat" alt="phamquangviet891" /> </p>
 
