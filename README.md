@@ -24,9 +24,14 @@
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamquangviet891&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phamquangviet891" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamquangviet891&show_icons=true&locale=en&theme=tokyonight" alt="phamquangviet891" /></p>
+<h2 align="center">My Github Statistics 🔥</h2>   
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamquangviet891&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phamquangviet891" /></p>
+<br>
+<h2 align="center">My contribution Streak 🔥</h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=phamquangviet891&show_icons=true&locale=en&theme=tokyonight" alt="phamquangviet891" /></p>
+</br>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamquangviet891&theme=tokyonight" alt="phamquangviet891" /></p>
+</br>
+
