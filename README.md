@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamquangviet891&label=Profile%20views&color=0e75b6&style=flat" alt="phamquangviet891" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phamquangviet891" alt="phamquangviet891" /></a> </p>
-
 - 🌱 I’m currently learning **Springboot, ReactJs, Ionic, React Native**
 
 - 👯 I’m looking to collaborate on **community project**
