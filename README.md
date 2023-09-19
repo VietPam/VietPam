@@ -1,4 +1,5 @@
 <a href="http://eddiejaoude.io" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/readme-github-45eae.appspot.com/o/20230919_030544955_iOS.gif?alt=media&token=8de41dd9-6086-4596-bc06-92a92c20aa6e" /></a>
+
 <h1 align="center">Hi 👋, I'm QuangViet</h1>
 <h3 align="center">A passionate web developer from VietNam</h3>
 <img align="right" alt="Coding" width="246" src="https://firebasestorage.googleapis.com/v0/b/readme-github-45eae.appspot.com/o/20230919_030451362_iOS.gif?alt=media&token=7e6bd472-855b-40ce-a6d7-fd3b27fe1bde">
