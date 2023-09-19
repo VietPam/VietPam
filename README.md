@@ -1,7 +1,8 @@
 ![banner](https://github.com/phamquangviet891/phamquangviet891/blob/main/banner-github.gif)
 <h1 align="center">Hi 👋, I'm Quang Viet</h1>
 <h3 align="center">A passionate web developer from VietNam</h3>
-<img align="right" alt="Coding" width="246" src="https://github.com/phamquangviet891/phamquangviet891/blob/main/right%20gif%20img.gif">
+<br>
+<img align="right" alt="Coding" width="264" src="https://github.com/phamquangviet891/phamquangviet891/blob/main/right%20gif%20img.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamquangviet891&label=Profile%20views&color=0e75b6&style=flat" alt="phamquangviet891" /> </p>
 
@@ -23,15 +24,15 @@
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
+</br>
 <h2 align="center">My Github Statistics 🔥</h2>   
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamquangviet891&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phamquangviet891" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=phamquangviet891&show_icons=true&locale=en&layout=compact&theme=radical" alt="phamquangviet891" /></p>
 <br>
 <h2 align="center">My contribution Streak 🔥</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=phamquangviet891&show_icons=true&locale=en&theme=tokyonight" alt="phamquangviet891" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=phamquangviet891&show_icons=true&locale=en&theme=radical" alt="phamquangviet891" /></p>
 </br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamquangviet891&theme=tokyonight" alt="phamquangviet891" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamquangviet891&theme=radical" alt="phamquangviet891" /></p>
 </br>
 
