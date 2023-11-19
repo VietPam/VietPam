@@ -30,6 +30,8 @@
 -->
 
 </br>
+
+<!--
 <h2 align="center">My Github Statistics 🔥</h2>   
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=phamquangviet891&show_icons=true&locale=en&layout=compact&theme=radical" alt="phamquangviet891" /></p>
 <br>
@@ -37,14 +39,13 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=phamquangviet891&show_icons=true&locale=en&theme=radical" alt="phamquangviet891" /></p>
 </br>
 <br>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamquangviet891&theme=radical" alt="phamquangviet891" /></p>
-</br>
-## 🐍 A Snake Eating my Contributions Graph
-	
+</br>-->
+
+<!-- ## 🐍 A Snake Eating my Contributions Graph
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+</p> -->
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
