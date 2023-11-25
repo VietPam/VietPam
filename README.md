@@ -1,16 +1,16 @@
 ![banner](https://github.com/phamquangviet891/phamquangviet891/blob/main/banner-github.gif)
 <h1 align="center">Hi 👋, I'm Quang Viet</h1>
-<h3 align="center">A passionate web developer from VietNam</h3>
+<h3 align="center">A passionate backend developer from VietNam</h3>
 <br>
 <img align="right" alt="Coding" width="264" src="https://github.com/phamquangviet891/phamquangviet891/blob/main/right%20gif%20img.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamquangviet891&label=Profile%20views&color=0e75b6&style=flat" alt="phamquangviet891" /> </p>
 
-- 🌱 I’m currently learning **Springboot, ReactJs, Ionic, React Native**
+- 🌱 I’m currently learning **Dotnet, Springboot, ExpressJS**
 
 - 👯 I’m looking to collaborate on **community project**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Backend development**
 
 - 📫 How to reach me **www.facebook.com/phamquangviet891/**
 
