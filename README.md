@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamquangviet891&label=Profile%20views&color=0e75b6&style=flat" alt="phamquangviet891" /> </p>
 
-- 🌱 I’m currently learning **Dotnet, Springboot, ExpressJS**
+- 🌱 I’m currently learning **Dotnet Core, MVC**
 
 - 👯 I’m looking to collaborate on **community project**
 
 - 💬 Ask me about **Backend development**
 
-- 📫 How to reach me **www.facebook.com/phamquangviet891/**
+- 📫 How to reach me **facebook.com/phamquangviet891/**
 
 - ⚡ Fun fact **I can fix the bug, but i can't fix my broken heart**
 
