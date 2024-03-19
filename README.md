@@ -49,17 +49,6 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p> -->
 
----
-
-### Spotify Playing 🎧
-
-<div align="center">
-
-[![Spotify](https://novatorem.lunaticske12.vercel.app/api/spotify)](https://open.spotify.com/user/lunatic-ske)
-
-</div>
-
----
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
