@@ -25,29 +25,9 @@
 [![](https://img.shields.io/website-up-down-green-red/http/dev-quangviet.click)](https://dev-quangviet.click/)
 
 
-<!---
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
--->
+**My favourite quotes**:
 
-</br>
-
-<!--
-<h2 align="center">My Github Statistics 🔥</h2>   
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=phamquangviet891&show_icons=true&locale=en&layout=compact&theme=radical" alt="phamquangviet891" /></p>
-<br>
-<h2 align="center">My contribution Streak 🔥</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=phamquangviet891&show_icons=true&locale=en&theme=radical" alt="phamquangviet891" /></p>
-</br>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamquangviet891&theme=radical" alt="phamquangviet891" /></p>
-</br>-->
-
-<!-- ## 🐍 A Snake Eating my Contributions Graph
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p> -->
+- Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 
 
 
