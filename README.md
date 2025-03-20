@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamquangviet891&label=Profile%20views&color=0e75b6&style=flat" alt="phamquangviet891" /> </p>
 
-- 🌱 I’m currently learning **Dotnet Core, MVC**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **community project**
 
@@ -18,8 +18,7 @@
 
 **Skills**:
 
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ![](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![](https://img.shields.io/website-up-down-green-red/http/dev-quangviet.click)](https://dev-quangviet.click/)
